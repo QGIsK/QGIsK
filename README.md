@@ -1,10 +1,6 @@
 [![QGIsK's github stats](https://github-readme-stats.vercel.app/api?username=QGIsK&count_private=true&show_icons=true&theme=cobalt&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QGIsK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=4b3af3f7aabc&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
-^Affiliate link
-
 <!--
 **QGIsK/QGIsK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
